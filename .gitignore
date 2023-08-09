@@ -1,0 +1,7 @@
+#large 3d files
+*.ply
+*.stl
+
+#Environment
+*.RData
+*.rda
